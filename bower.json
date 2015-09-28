@@ -1,0 +1,30 @@
+{
+  "name": "zoom.js.full",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kingdido999/zoom.js",
+  "authors": [
+    "fat <jacobthornton@gmail.com>",
+    "kingdido999 <kingdido999@gmail.com>"
+  ],
+  "description": "Zoom.js with full size image on click",
+  "main": [
+    "js/zoom.js",
+    "css/zoom.css"
+    ],
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "zoom",
+    "jquery",
+    "image"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
